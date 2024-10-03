@@ -121,6 +121,7 @@
     width: 150px;
     height:130px;
     color: white;
+    border-radius: 10px;
 }
 .box-para5:hover{
     transform: scale(1.2);
